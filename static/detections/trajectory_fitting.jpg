@@ -1,0 +1,11 @@
+--2020-06-19 07:42:55--  https://raw.githubusercontent.com/hardik0/AI-basketball-analysis-on-google-colab/master/static/detections/trajectory_fitting.jpg
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.0.133, 151.101.64.133, 151.101.128.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.0.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 27753 (27K) [image/jpeg]
+Saving to: ‘trajectory_fitting.jpg’
+
+     0K .......... .......... .......                         100% 3.60M=0.007s
+
+2020-06-19 07:42:55 (3.60 MB/s) - ‘trajectory_fitting.jpg’ saved [27753/27753]
+
